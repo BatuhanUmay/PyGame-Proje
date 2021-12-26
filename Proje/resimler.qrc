@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>slitherButton.jpg</file>
+    <file>tankButton.jpg</file>
+  </qresource>
+</RCC>
